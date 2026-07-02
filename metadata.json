@@ -1,0 +1,6 @@
+{
+  "name": "BizBalance CEO AI",
+  "description": "O CEO Inteligente que Ajuda a Gerir o Seu Negócio. Desenvolvido por João Gamba Mendes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
